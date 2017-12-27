@@ -1,0 +1,25 @@
+{
+  "name": "ethereum-mob",
+  "version": "1.0.0",
+  "description": "Agile Ventures Ethereum mob programming (BlockParty: https://github.com/makoto/blockparty)",
+  "main": "deploy.js",
+  "dependencies": {
+    "web3": "1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "solc": "0.4.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willnwhite/av-ethereum-mob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willnwhite/av-ethereum-mob/issues"
+  },
+  "homepage": "https://github.com/willnwhite/av-ethereum-mob#readme"
+}
